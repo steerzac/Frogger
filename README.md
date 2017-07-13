@@ -6,7 +6,7 @@ Frogger is a simple, fun CLI game. Play while bored, waiting for a build, or try
 Written on MacOS, but should work on most Linux systems.  
 
 Quick Start  
-  `$ git clone`  
+  `$ git clone https://github.com/steerzac/Frogger.git`  
   `$ cd Frogger`  
   `$ ./frogger.sh`  
  
