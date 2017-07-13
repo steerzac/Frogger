@@ -1,10 +1,10 @@
 # Frogger
-My bash-scripted spin of a Frogger-like game.
+My bash-scripted spin of a Frogger-like game.  
 
-After learning bash, I wanted to make something fun with it. 
-Frogger is a simple, fun CLI game. Play while bored, waiting for a build, or trying to act busy before a meeting starts.
+After learning bash, I wanted to make something fun with it.   
+Frogger is a simple, fun CLI game. Play while bored, waiting for a build, or trying to act busy before a meeting starts.  
 
-Quick Start
-git clone 
-cd Frogger
-./frogger.sh
+Quick Start  
+`$ git clone`  
+`$ cd Frogger`  
+`$ ./frogger.sh`  
